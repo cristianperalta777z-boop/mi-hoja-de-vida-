@@ -10,6 +10,6 @@
 - 
 ## Habilidades
 -liderazo
--mantenimineto de equipos de computo
+mantenimineto de equipos de computo
 - Conocimientos básicos en programación
 - Uso de herramientas colaborativas
