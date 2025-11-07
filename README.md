@@ -9,7 +9,6 @@
 - Técnico en Sistemas y estudiante de segundo semestre de Ingeniería de Sistemas, con conocimientos en programación básica, redes, sistemas operativos y fundamentos de bases de datos.
 - 
 ## Habilidades
--liderazo
-mantenimineto de equipos de computo
+-mantenimiento de equipos de computo
 - Conocimientos básicos en programación
 - Uso de herramientas colaborativas
